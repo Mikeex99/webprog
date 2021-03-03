@@ -1,0 +1,40 @@
+
+header{
+    background-color: whitesmoke;
+}
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 0 0 10px;
+    padding: 10px;
+   
+
+} 
+li{
+    list-style: none;
+    float: left;
+}  
+.gomb{
+    background-color: brown;
+    width: 50px;
+    margin: 20px;
+}
+a{
+    color: whitesmoke;
+}
+footer{
+    background-color: black;
+    color: whitesmoke;
+    height: auto;
+}
+article{
+    height: 850px;
+    background-color: aqua;
+}
+aside{
+    float: right;
+    background-color: olivedrab;
+}
+#randomkepekszoveggel{
+    float: left;
+}
