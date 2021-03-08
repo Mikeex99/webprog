@@ -28,13 +28,18 @@ footer{
     height: auto;
 }
 article{
-    height: 850px;
+    height: 93.5vh;
     background-color: aqua;
 }
 aside{
     float: right;
     background-color: olivedrab;
+    width: 19%;
 }
 #randomkepekszoveggel{
+    float: left;
+    width: 80%;
+}
+.hir{
     float: left;
 }
